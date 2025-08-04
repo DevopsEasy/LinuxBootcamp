@@ -1,6 +1,4 @@
-Sure! Here's a **list of real-time interview questions** based on your JD **with practical answers/solutions**, crafted to help you crack tomorrow’s interview.
 
----
 
 ### ✅ **1. Server Installation & Decommissioning**
 
