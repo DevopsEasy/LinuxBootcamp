@@ -312,7 +312,3 @@ lsblk                 # List block devices
 
 ---
 
-
-
-
-Would you like a **one-page summary cheat sheet** of commands and steps you can revise just before your interview?
