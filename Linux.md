@@ -186,9 +186,6 @@ firewall-cmd --reload
 
 ---
 
-
-Here’s your **One-Page Linux/Server Administration Interview Cheat Sheet** 🧠📝 – based on your job description and real-time troubleshooting steps:
-
 ---
 
 ### ✅ **1. Linux Server Provisioning Steps (Physical/VM)**
